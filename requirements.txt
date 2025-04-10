@@ -1,6 +1,5 @@
 google-genai==0.0.1
 streamlit==1.44
-tempfile
 google
-dotenv
+python-dotenv
 # google-generativeai
