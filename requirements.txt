@@ -1,6 +1,6 @@
+google-genai
 streamlit
 tempfile
 google
 dotenv
 collections
-google-genai
