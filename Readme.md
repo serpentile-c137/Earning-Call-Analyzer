@@ -23,4 +23,4 @@ GOOGLE_API_KEY=your_api_key
 streamlit run main.py
 ```
 
-#### Project Url : 
+#### Project Url : https://earning-call-analyzer.streamlit.app/
