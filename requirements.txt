@@ -1,0 +1,6 @@
+streamlit
+tempfile
+google
+dotenv
+collections
+google-genai
