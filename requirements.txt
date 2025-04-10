@@ -1,5 +1,5 @@
 google-genai
-streamlit
+streamlit==1.44
 tempfile
 google
 dotenv
